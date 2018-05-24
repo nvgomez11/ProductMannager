@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "364241955962",
+    "firebase_url": "https://productmanager-b8c67.firebaseio.com",
+    "project_id": "productmanager-b8c67",
+    "storage_bucket": "productmanager-b8c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364241955962:android:b4df4bbfddf9d110",
+        "android_client_info": {
+          "package_name": "com.example.nelson.productmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364241955962-mkkthubdus30n2qgnbdm5hqkgl0tqa7s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "364241955962-mkkthubdus30n2qgnbdm5hqkgl0tqa7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0TebOeTvxPPo2sIPNpBZGdgZcPNJ69A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
