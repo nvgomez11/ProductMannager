@@ -8,4 +8,13 @@
     tools:context=".Products"
     tools:showIn="@layout/activity_products">
 
+    <GridView
+        android:id="@+id/grid_view_vv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:descendantFocusability="blocksDescendants"
+        android:focusableInTouchMode="false"
+        android:numColumns="1"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"></GridView>
 </android.support.constraint.ConstraintLayout>
